@@ -29,3 +29,8 @@ def my_func(t, x, u) -> float:
   x_end = 2 * x ** (1 / t) - u
   return x_end
 ```
+
+"The syntax for task lists is very specific."
+- [ ] create an incomplete task
+- [x] complete an incomplete task
+- [ ] profit?
